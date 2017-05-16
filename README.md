@@ -14,10 +14,10 @@ Download the data
 Clone this repo to your computer.
 Get into the folder Exploring-US-Gun-Deaths.
 Download the data file from [here](https://raw.githubusercontent.com/fivethirtyeight/guns-data/master/full_data.csv) directory.
-Rename full_data.csv data.csv
+Rename full_data.csv 'guns.csv'
 
 Install python 3 and jupyter notebook by downloading and installing Anaconda from [here](https://www.continuum.io/downloads), make sure you download the Python 3 version.
 
 You may want to use a virtual environment for this.
 
-Start jupyter notebook, navigate to Exploring-US-Gun-Deaths folder and run Exploring_US_Gun_Deaths.ipynb
+Start jupyter notebook, navigate to Exploring-US-Gun-Deaths folder and run Exploring_US_Gun_Deaths.ipynb.
